@@ -5,5 +5,6 @@ public class Test {
 		// String s = "registrationError.zipCode";
 		// System.out.println(s.split("\\.")[1]);
 		System.out.println("In local branch Vikas");
+		System.out.println("test ");
 	}
 }
